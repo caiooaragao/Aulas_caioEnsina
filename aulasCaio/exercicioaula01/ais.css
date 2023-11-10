@@ -1,0 +1,32 @@
+.card-container{
+    width: 300px;
+    background-color: rgb(175, 175, 175);
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+.card-img{
+    width: 300px;
+    height: 400px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    
+}
+.card-text-container{
+    padding-top: 20px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    text-align: center;
+    
+}
+
+.card-preco{
+    font-size: 24px;
+
+}
+
+.card-descricao{
+    font-size: 17px;
+    text-align: center;
+}
